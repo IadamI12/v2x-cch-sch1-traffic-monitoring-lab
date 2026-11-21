@@ -1,4 +1,4 @@
-# v2x-cch-sch1-traffic-monitoring-lab
+# V2X Traffic Monitoring Lab
 A laboratory supposed to show the difference, between the traffic of two different channels, depending on the time of the day, also taking other factors (like attacks) into account.
 
 The .csv files are from the VeReMi Extension (2020) dataset. These are reduced datasets, based on the timestamps, as it will be used for educating porpuses. The three datasets consist of one that's during rush hour, one that's during quiet hours and one that's experiencing DoS attack.
